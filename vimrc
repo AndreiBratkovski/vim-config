@@ -1,4 +1,5 @@
 " Andrei Bratkovski - 2018 Vim Config
+" inspired by https://realpython.com/vim-and-python-a-match-made-in-heaven/
 
 set nocompatible " be iMproved, required
 filetype off     " required
